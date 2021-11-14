@@ -13,10 +13,10 @@
 ### 팀원 및 구현 기능
 - `양성원` / [SeongWon Yang](https://github.com/seongwonyang) : 메인개발자 및 팀장<br>
 - `신유라` / [Youra Shin](https://github.com/diverJenny) : 메인개발자
-- `이 용` / [nogy21](https://github.com/nogy21) : 메일개발자
-- `이주형` / [juhyung96](https://github.com/juhyung96) : 메일개발자
-- `임지원` / [zheld12](https://github.com/zheld12) : 메일개발자
-- `김서연` / [westkitekim](https://github.com/westkitekim) : 메일개발자
+- `이 용` / [nogy21](https://github.com/nogy21) : 메인개발자
+- `이주형` / [juhyung96](https://github.com/juhyung96) : 메인개발자
+- `임지원` / [zheld12](https://github.com/zheld12) : 메인개발자
+- `김서연` / [westkitekim](https://github.com/westkitekim) : 메인개발자
 
 ## 🚀 회의록
 - [2021.11.04(목) 4차 회의록](https://github.com/diverJenny/KOSTAGRAM/wiki/2021.11.04(%EB%AA%A9)-%ED%9A%8C%EC%9D%98%EB%A1%9D)
