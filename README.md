@@ -28,9 +28,9 @@
 - [2021.11.11(목) 10차 회의록](https://github.com/diverJenny/KOSTAGRAM/wiki/2021.11.11(%EB%AA%A9)-%ED%9A%8C%EC%9D%98%EB%A1%9D)
 - [2021.11.22(월) 11차 회의록](https://github.com/diverJenny/KOSTAGRAM/wiki/2021.11.22(%EC%9B%94)-%ED%9A%8C%EC%9D%98%EB%A1%9D)
 
-## 🚀 개발기간
-- 프로젝트 수행 기간  
-2021.11.01 ~ 2021.11.12
+## 🚀 개발기간 
+1. 2021.11.01 ~ 2021.11.12 (Official) : 교육기관 마감기한 
+2. 2021.11.01 ~ 2021.11.~ (Unofficial) : 팀원들끼리 추가 기능 구현
 
 ## 🚀 개발환경 및 적용기술 
 <img src="http://img.shields.io/badge/-git-black?&logo=git"><br>
