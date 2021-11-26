@@ -35,6 +35,8 @@
 		onclick="location.href='ProfileUpdateFormController.do'">프로필수정</button>
 	<button type="button" class="btn-test"
 		onclick="location.href='PasswordCheckFormController.do'">비밀번호수정</button>
+	<button type="button" class="btn-test"
+		onclick="location.href='PasswordCheckFormController.do?withdrawal=1'">회원탈퇴</button>
 	<br> <br>
 </div>
 <form action="UpdateMemberController.do" method="post" onsubmit="return checkInput()">
