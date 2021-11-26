@@ -10,6 +10,7 @@ CREATE TABLE member (
 );
 
 drop table member;
+commit
 
 CREATE TABLE post
 (
@@ -21,8 +22,9 @@ CREATE TABLE post
 	post_date DATE  NOT NULL, 
 	constraint post_member_fk foreign key(member_id) references member(member_id)
 );
-
 drop table post
+ALTER TABLE post DROP CONSTRAINT post_member_fk
+ALTER TABLE post add constraint post_member_fk foreign key(member_id) references member(member_id) on delete cascade
 
 CREATE sequence post_seq;
 
@@ -36,6 +38,8 @@ CREATE TABLE likes
 );
 
 drop table likes
+ALTER TABLE likes DROP CONSTRAINT likes_member_fk
+ALTER TABLE likes add constraint likes_member_fk foreign key(member_id) references member(member_id) on delete cascade
 
 CREATE sequence likes_seq;
 
@@ -51,6 +55,8 @@ CREATE TABLE post_comment
 );
 
 drop table post_comment;
+ALTER TABLE post_comment DROP CONSTRAINT comment_member_fk
+ALTER TABLE post_comment add constraint comment_member_fk foreign key(member_id) references member(member_id) on delete cascade
 
 CREATE sequence post_comment_seq;
 

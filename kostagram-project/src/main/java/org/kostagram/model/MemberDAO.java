@@ -238,4 +238,19 @@ public class MemberDAO {
 		}
 		return searchMemberList;
 	}
+	
+	// 회원 탈퇴
+	public void withdrawMember(String memberId) throws SQLException {
+        Connection con = null;
+        PreparedStatement pstmt = null;
+        try {
+            con = dataSource.getConnection();
+            String withdrawMembreSql = "delete from member where member_id=?";
+            pstmt = con.prepareStatement(withdrawMembreSql);
+            pstmt.setString(1, memberId);
+            pstmt.executeUpdate();
+        }finally {
+            closeAll(pstmt, con);
+        }
+    }
  }
