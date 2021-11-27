@@ -27,6 +27,7 @@
 - [2021.11.10(수) 9차 회의록](https://github.com/diverJenny/KOSTAGRAM/wiki/2021.11.10(%EC%88%98)-%ED%9A%8C%EC%9D%98%EB%A1%9D)
 - [2021.11.11(목) 10차 회의록](https://github.com/diverJenny/KOSTAGRAM/wiki/2021.11.11(%EB%AA%A9)-%ED%9A%8C%EC%9D%98%EB%A1%9D)
 - [2021.11.22(월) 11차 회의록](https://github.com/diverJenny/KOSTAGRAM/wiki/2021.11.22(%EC%9B%94)-%ED%9A%8C%EC%9D%98%EB%A1%9D)
+- [2021.11.23(월) ~ 25(목) 코드리뷰(12~14차) 회의록](https://github.com/diverJenny/KOSTAGRAM/wiki/2021.11.23(%ED%99%94)-~-25(%EB%AA%A9)-%ED%9A%8C%EC%9D%98%EB%A1%9D(%EC%B5%9C%EC%A2%85-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0))
 
 ## 🚀 개발기간 
 1. 2021.11.01 ~ 2021.11.12 (Official) : 교육기관 마감기한(2차 구현까지 완료)
